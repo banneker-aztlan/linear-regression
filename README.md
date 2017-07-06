@@ -18,3 +18,7 @@ the detailed material we're covering but instead to
 on last week's material), and
 (2) motivate why we are interested in sampling from the full posterior
 distribution (leading up to subsequent weeks' material).
+
+Further reading:
+[This paper](https://arxiv.org/pdf/1008.4686.pdf) is an excellent resource
+that builds on lots of the concepts discussed here.
